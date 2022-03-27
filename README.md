@@ -7,4 +7,5 @@ HTTP for Growtopia Private Server
 - Open port 80 on Inbound Rules Firewall
 
 # Contact me ?
-If you found bugs or any issue on this tools feel free to contact me!\nDiscord : FluppyID#6875
+If you found bugs or any issue on this tools feel free to contact me!
+- Discord : FluppyID#6875
