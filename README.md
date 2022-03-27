@@ -3,7 +3,7 @@ Best HTTP for Growtopia Private Server
 
 # Readme
 - Do not selling this free http server tools
-- Better use this tool on VPS/RDP to start http server
+- Better use this tool on VPS/RDP
 - Open port 80 on Inbound Rules Firewall
 - Support sub-server
 - Low cpu usage
