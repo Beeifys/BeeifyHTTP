@@ -1,5 +1,5 @@
 # BeeifyHTTP
-HTTP for Growtopia Private Server
+Best HTTP for Growtopia Private Server
 
 # Readme
 - Do not selling this free http server tools
