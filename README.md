@@ -6,6 +6,7 @@ HTTP for Growtopia Private Server
 - Better use this tool on VPS/RDP to start http server
 - Open port 80 on Inbound Rules Firewall
 - Support sub-server
+- Low cpu usage
 - This is not anti-ddos!
 
 # Contact me ?
