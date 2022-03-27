@@ -5,6 +5,7 @@ HTTP for Growtopia Private Server
 - Do not selling this free http server tools
 - Better use this tool on VPS/RDP to start http server
 - Open port 80 on Inbound Rules Firewall
+- Support sub-server
 
 # Contact me ?
 If you found bugs or any issue on this tools feel free to contact me!
